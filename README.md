@@ -27,6 +27,9 @@
   
   > document上委托了2个 click 事件，click 后判断是否当前符合条件（选择符），然后把事件拿出来执行。
 
+## Vue
+
+- 官方的模态框的例子：http://codepen.io/aidenzou/full/dGpmqr/
 
 ## Polymer
 
