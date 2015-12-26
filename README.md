@@ -30,6 +30,7 @@
 ## Vue
 
 - 官方的模态框的例子：http://codepen.io/aidenzou/full/dGpmqr/
+- vue 转场动画：http://codepen.io/aidenzou/full/ZQpxNx/
 
 ## Polymer
 
