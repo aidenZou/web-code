@@ -14,9 +14,9 @@
 
 - Zepto事件委托的小坑
 
-  http://codepen.io/aidenzou/full/WrGzxQ/
+  示例：http://codepen.io/aidenzou/full/WrGzxQ/
   
-  Find:https://github.com/riskers/blog/issues/14
+  Find：https://github.com/riskers/blog/issues/14
   
   Zepto 的事件委托是：
   
@@ -27,5 +27,13 @@
   
   > document上委托了2个 click 事件，click 后判断是否当前符合条件（选择符），然后把事件拿出来执行。
 
+
+## Polymer
+
+### dialog标签
+
+Find：HTML5的dialog API：http://div.io/topic/1406
+
+示例：http://codepen.io/aidenzou/full/ZQpxrX/
 
 
